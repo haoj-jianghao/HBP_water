@@ -1,0 +1,6 @@
+The code implements the Buckingham type vdW potential + Gaussian Charge PME interaction
+in Lammps (version 2017-Aug11)
+Designed for the hydrogen bonding polarizable (HBP) water force field
+Hao Jiang, Othonas A Moultos, Ioannis George Economou and Athanassios Z Panagiotopoulos
+Hydrogen-Bonding Polarizable Intermolecular Potential Model for Water
+J. Phys. Chem. B, 120, 48, 12358
